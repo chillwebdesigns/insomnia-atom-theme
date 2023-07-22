@@ -9,7 +9,7 @@ An Insomnia theme based on the Atom text editor
 
 1. In Insomnia, go to _Application_ and select _Preferences_
 2. Click on _Plugins_
-3. Paste `insomnia-plugin-atom-theme` into the package name field
+3. Paste `@chillwebdesigns/insomnia-plugin-atom-theme` into the package name field
 4. Click on _Install Plugin_
 
 #### Activating theme

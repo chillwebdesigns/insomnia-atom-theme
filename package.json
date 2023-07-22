@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-atom-theme",
+  "name": "@chillwebdesigns/insomnia-plugin-atom-theme",
   "version": "1.0.0",
   "description": "Atom theme for Insomnia",
   "main": "index.js",
@@ -32,6 +32,7 @@
       },
       "publisher": {
         "name": "Chill Web Designs"
-      }
+      },
+      "unlisted": false 
     }
 }
