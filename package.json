@@ -1,0 +1,25 @@
+{
+  "name": "insomnia-plugin-atom-theme",
+  "version": "1.0.0",
+  "description": "Atom theme for Insomnia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chillwebdesigns/insomnia-atom-theme.git"
+  },
+  "keywords": [
+    "atom",
+    "atom-insomnia",
+    "atom-theme",
+    "insomnia"
+  ],
+  "author": "Chill Web Designs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chillwebdesigns/insomnia-atom-theme/issues"
+  },
+  "homepage": "https://github.com/chillwebdesigns/insomnia-atom-theme#readme"
+}
