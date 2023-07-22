@@ -1,6 +1,6 @@
 {
   "name": "@chillwebdesigns/insomnia-plugin-atom-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Atom theme for Insomnia",
   "main": "index.js",
   "scripts": {
