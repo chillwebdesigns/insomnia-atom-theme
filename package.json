@@ -14,12 +14,24 @@
     "atom",
     "atom-insomnia",
     "atom-theme",
-    "insomnia"
+    "insomnia",
+    "insomnia-plugin"
   ],
   "author": "Chill Web Designs",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chillwebdesigns/insomnia-atom-theme/issues"
   },
-  "homepage": "https://github.com/chillwebdesigns/insomnia-atom-theme#readme"
+  "homepage": "https://github.com/chillwebdesigns/insomnia-atom-theme#readme",
+  "insomnia": {
+      "name": "atom-theme",
+      "displayName": "Atom Theme",
+      "description": "Atom theme for Insomnia",
+      "applications": {
+        "core": "*"
+      },
+      "publisher": {
+        "name": "Chill Web Designs"
+      }
+    }
 }
